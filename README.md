@@ -1,5 +1,5 @@
-# SUPERDUPERSECRETWEBSITE
-Drive to Linville Falls and DO NOT BE LATE -- you have to keep this secret from Sam don't even tell him if you solve this.
+Final Puzzle! 
+Drive to Linville Falls and DO NOT BE LATE -- you have to keep this secret! Dont even tell Sam if you solve this. A "Correct!" will appear when you have solved the cipher.
 <!doctype html>
 <html lang="en">
 <head>
