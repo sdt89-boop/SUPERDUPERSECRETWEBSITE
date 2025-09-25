@@ -73,6 +73,10 @@ Drive to Linville Falls and DO NOT BE LATE -- you have to keep this secret! Dont
       color: #9bd1ff;
       visibility: hidden;
     }
+    .result a {
+      color: #9bd1ff;
+      text-decoration: underline;
+    }
   </style>
 </head>
 <body>
@@ -89,7 +93,12 @@ Drive to Linville Falls and DO NOT BE LATE -- you have to keep this secret! Dont
 
     <div class="inputs" id="inputs"></div>
 
-    <div class="result" id="result">Correct!</div>
+    <div class="result" id="result">
+      Correct! 🎉 <br>
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSduID_uf-AHlVmcFyGjqNXn4BtUrFzDdyUm1uv87f37Gk_h_Q/viewform?usp=header" target="_blank">
+        Click here to continue
+      </a>
+    </div>
   </div>
 
   <script>
